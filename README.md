@@ -2,13 +2,13 @@
 
 ## Requisitos
 
-1. [ ] Plus One será una aplicación (en principio para Android, luego se verá la posibilidad de ampliarlo a otros Sistemas Operativos).* La aplicación deberá estar hecha en una tecnología Android.*
-2. [ ] Fácil de usar.* Cada página será muy intuitiva, se evitará el uso excesivo de botones, y se podrán crear y buscar eventos, en definitiva, se buscará que el usuario pueda interactuar con la interfaz sin ningún tipo de conocimiento.*
-3. [ ] El usuario podrá crear y buscar eventos.* Deberá existir varios tipos de eventos y un usuario podrá unirse a uno o crear uno nuevo.*
-4. [ ] En estos eventos se realizará una actividad y el usuario se apuntará al que quiera o creará una nueva.* Las actividades son variadas, desde eventos deportivos, espectáculos, comidas o incluso eventos didácticos, como charlas o conferencias. Cada evento constará con información(introducida por el creador del evento) que lo describa correctamente.*
+- [ ] Plus One será una aplicación (en principio para Android, luego se verá la posibilidad de ampliarlo a otros Sistemas Operativos).* La aplicación deberá estar hecha en una tecnología Android.*
+- [ ] Fácil de usar.* Cada página será muy intuitiva, se evitará el uso excesivo de botones, y se podrán crear y buscar eventos, en definitiva, se buscará que el usuario pueda interactuar con la interfaz sin ningún tipo de conocimiento.*
+- [ ] El usuario podrá crear y buscar eventos.* Deberá existir varios tipos de eventos y un usuario podrá unirse a uno o crear uno nuevo.*
+- [ ] En estos eventos se realizará una actividad y el usuario se apuntará al que quiera o creará una nueva.* Las actividades son variadas, desde eventos deportivos, espectáculos, comidas o incluso eventos didácticos, como charlas o conferencias. Cada evento constará con información(introducida por el creador del evento) que lo describa correctamente.*
 - [ ] El usuario para acceder a los recursos de la aplicación deberá hacer un “login” previamente con una página en la cual el usuario mediante el usuario y la contraseña pueda acceder a la aplicación.
 - [ ] El usuario que cree el evento deberá especificar información que describa las características del evento: Personas necesarias, Hora, Duración, Lugar, Temática. También podrá dar detalles (si son aplicables) como la experiencia necesaria, precio y más información.\*
-- [ ] El usuario que cree el evento también podrá decidir si habilitar el chat, y cuanta información personal quiere que se comparta entre los interesados del evento (foto de perfil, sexo, edad, etc…)\** El creador del evento es el único que podrá modificar la información en el evento creado.*
+- [ ] El usuario que cree el evento también podrá decidir si habilitar el chat, y cuanta información personal quiere que se comparta entre los interesados del evento (foto de perfil, sexo, edad, etc…)\* *El creador del evento es el único que podrá modificar la información en el evento creado.*
 - [ ] El usuario puede acceder a los recursos de manera rápida.* Cada transacción deberá tardar menos de 5 segundos.*
 - [ ] Tecnología de geolocalización para saber exactamente dónde va a ser el evento.
 - [ ] Chat con las personas que están apuntadas al evento.\* 
@@ -18,7 +18,7 @@
 - [ ] Una página de ajustes donde el usuario pueda decidir el tipo de eventos que quiera encontrar (ej. Alguien debe poder decir que solo quiere eventos organizados por chicas entre los 20 y los 40 años). *Estos ajustes deben reflejarse en el filtrado de eventos mostrados; Si el usuario decide que no quiere ver eventos creados por hombres, no se le mostrará eventos creados por eventos.*
 - [ ] La página principal debe dejar al usuario rápidamente elegir que tipo de evento quiere (entre comer, actividad cultural, deporte, café/cerveza, hablar, u otros), buscar eventos, y crear eventos.
 
-\** Para que este requisito se cumpla, es necesario que un segundo usuario pueda ver lo que indica el requisito.*
+\* *Para que este requisito se cumpla, es necesario que un segundo usuario pueda ver lo que indica el requisito.*
 
 ## Análisis
 - Móviles Android
